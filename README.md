@@ -243,4 +243,4 @@ Although not diving into ML algorithms, knowing these Python features supports t
 * CLI tools (`argparse`, `click`, `typer`)
 * Building reusable ML utilities
 
-##  ThankYou
+## Thanks
